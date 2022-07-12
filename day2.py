@@ -32,4 +32,7 @@ plt.show()
 hmean = np.mean(hi_var_array)
 lmean = np.mean(low_var_array)
 
+hvar = np.var(hi_var_array)
+lvar = np.var(low_var_array)
+
 
